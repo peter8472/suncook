@@ -1,3 +1,5 @@
+# visual studio stuff isn't that important
+.vscode/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
